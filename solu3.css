@@ -1,0 +1,29 @@
+.heading{
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+   width: 100vw;
+   height: 25px;
+    
+}
+li{
+    margin-bottom: 14px;
+    float: left;
+    list-style: none;
+    margin-left: 55px;
+}
+.main-heading{
+    border-bottom: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    color: brown;
+    border: 3px ;
+
+}
+.heading a {
+    margin-left: 120px;
+    color: rgb(255, 255, 0);
+    text-decoration: none;
+}

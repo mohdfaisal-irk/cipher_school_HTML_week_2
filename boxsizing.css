@@ -1,0 +1,24 @@
+
+.box1{
+    width: 500px;
+    background-color: lightcoral;
+    border: 5px solid blue;
+}
+.heading {
+    list-style: none;
+    align-items: center;
+    position: relative;
+    border: 2px solid black;
+    display: inline;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-style: italic;
+    font-weight: 500px;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box2{
+    width: 500px;
+    background-color: rgb(232, 44, 44);
+    border: 5px solid blue;
+}

@@ -1,0 +1,16 @@
+div#container ul.my-songs li{
+    color: brown;
+    background: magenta;
+}
+.favorite{
+    color: yellow;
+    background: olivedrab;
+ }
+/* 0, 0, 1, 0 */ */
+div#container ul.my-songs li.favorite{
+    color: yellow;
+    background: pink;
+}
+.h1class{
+    color:orangered;
+}

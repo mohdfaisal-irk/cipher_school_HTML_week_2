@@ -1,0 +1,23 @@
+h2{
+    background: burlywood;
+    padding-left: 500px;
+
+}
+.heading{
+    border: 2px solid grey;
+    background: greenyellow;
+}
+.paragraph{
+    border: 2px solid grey;
+    background: greenyellow;
+
+}
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p span{
+    color: rgb(25, 0, 253);
+}
+.container{
+    border: cornflowerblue;
+}

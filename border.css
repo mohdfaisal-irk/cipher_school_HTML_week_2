@@ -1,0 +1,17 @@
+h2, img{
+    /* border:3px solid red; */
+    border-bottom: 9px solid red;
+    border-radius: 22px;
+}
+div{
+    border-bottom:2px solid green;
+    border-top:2px solid green;
+    border-left:2px solid green;
+    border-right:2px solid green;
+} 
+li{
+    border:2px solid black;
+} 
+span{
+    border:2px solid magenta;
+}

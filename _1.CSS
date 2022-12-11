@@ -1,0 +1,32 @@
+*{
+    color:blue;
+}
+header{
+    background-color: #ef7474;
+}
+section.my-article{
+    background-color: rgb(203, 239, 0);
+}
+header p{
+    color: aqua;
+}
+h2{
+    color: blueviolet;
+
+}
+.text-orange{
+    color: rgb(252, 88, 29);
+}
+li a{
+    color: rgb(61, 0, 117);
+}
+section.my-article > h2{
+    color: crimson;
+
+}
+h2+p{
+    color: darkgreen;
+}
+ul+p{
+    color: rgb(0, 0, 0);
+}
